@@ -33,5 +33,5 @@ Laboratorio-las/
 
 Durante la fase de pruebas del sistema de detección y respuesta, se obtuvieron las siguientes métricas promedio:
 
-MTTD Promedio: 12.0 segundos
-MTTR Promedio: 466.67 segundos
+- MTTD Promedio: 12.0 segundos
+- MTTR Promedio: 466.67 segundos
