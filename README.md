@@ -14,6 +14,7 @@ Este laboratorio consiste en desarrollar una aplicación web utilizando Python, 
 
 ## 3. Estructura del proyecto
 
+```text
 Laboratorio-las/
 ├── templates/
 │   ├── login.html
@@ -26,6 +27,7 @@ Laboratorio-las/
 ├── respuesta.log
 ├── usuarios.db
 └── README.md
+```
 
 ## 4. Métricas de Incidentes (Resultados de Pruebas)
 
